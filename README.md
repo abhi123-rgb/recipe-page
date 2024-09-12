@@ -9,7 +9,7 @@
 ### Links
 
 - Solution URL: [https://github.com/abhi123-rgb/recipe-page]
-- Live Site URL: [](https://abhi123-rgb.github.io/recipe-page/)
+- Live Site URL: [https://abhi123-rgb.github.io/recipe-page/]
 
 
 
