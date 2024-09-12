@@ -50,7 +50,8 @@ img {
     font-size: 40px;
     font-family: "young serif";
     margin-bottom: 10px;
-   
+    font-weight: 500;
+    color: var(--stone-900);
 }
 
 .intro p {
@@ -80,6 +81,7 @@ img {
    padding: 6px 0;
    margin-left: 30px;
    padding-left: 20px;
+   color: var(--stone-600);
 }
 
 .ingredients {
