@@ -8,8 +8,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/abhi123-rgb/recipe-page]
+- Live Site URL: [](https://abhi123-rgb.github.io/recipe-page/)
 
 
 
